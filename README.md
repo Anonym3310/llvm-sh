@@ -12,5 +12,5 @@ cd llvm-sh
 
 chmod +x llvm.sh
 
-sudo ./llvm.sh <version number>
+sudo ./llvm.sh (version number)
 
